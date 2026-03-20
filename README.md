@@ -59,7 +59,7 @@ The integration watches for failed deployments every 5 minutes and auto-creates 
 
 ## License
 
-MIT License
+BlackRoad Proprietary License
 
 ---
 
